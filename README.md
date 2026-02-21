@@ -1,7 +1,6 @@
-# AudioGlyph
-AudioGlyph is a real-time audio visualizer for the M5Stack Stick S3
+# AudioGlyph is a real-time audio visualizer for the M5Stack Stick S3
 
-AudioGlyph is a real-time audio visualizer for the M5Stack Stick S3.  
+Audio Glyph is a real-time audio visualizer for the M5Stack Stick S3.  
 Using the built-in microphone, it converts live audio into animated visual glyphs — abstract symbols that respond to rhythm and intensity in real time.
 
 Features
@@ -16,3 +15,11 @@ Hardware
 - M5StickS3 (ESP32-S3)
 - Built-in microphone
 
+
+** Firmware Download **
+
+Precompiled merged firmware:
+
+[Download S3_Visualizer_merged.bin](bin/S3_Visualizer_merged.bin)
+
+Flash using M5Burner or esptool.
